@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "sphinxcontrib-termynal",
+  "versions": [
+    {
+      "commit": "853621b2a0bedcc9a30558afac157990b429b141",
+      "tag": "",
+      "parsed_at": "2026-11-06T18:18:57.229919+00:00"
+    }
+  ]
+}
